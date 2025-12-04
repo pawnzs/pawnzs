@@ -1,5 +1,5 @@
 <a href="https://mdbcrew.lol">
-  <img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1342731383512104985/1343658444942741554/mdb.jpg?ex=67be12f1&is=67bcc171&hm=0cca1e907840a18268a5914139bcde079a3fb18ad3940f6baf96a0db5e75249e&" alt="btw">
+  <img width="200" height="200" align="left" src="https://media.discordapp.net/attachments/1412973964698980404/1445974375126794281/c2f72ed73ddedf626609eaf8cccefc83.png?ex=69324c13&is=6930fa93&hm=27cf05415740ed00d05f4e1616da3652f9c96486a930e4edf2301a92140daf13&=&format=webp&quality=lossless" alt="btw">
 </a>
 
 ### btw 🐼
